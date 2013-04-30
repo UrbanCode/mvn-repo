@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.savvis</groupId>
+  <artifactId>sdk</artifactId>
+  <version>1.0.2</version>
+  <versioning>
+    <versions>
+      <version>1.0.2</version>
+      <version>3.0.3</version>
+    </versions>
+    <lastUpdated>20130430192855</lastUpdated>
+  </versioning>
+</metadata>

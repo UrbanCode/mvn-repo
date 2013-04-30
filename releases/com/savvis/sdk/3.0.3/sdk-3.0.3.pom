@@ -1,0 +1,16 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+    <groupId>com.savvis</groupId>
+      <artifactId>sdk</artifactId>
+        <version>3.0.3</version>
+	  <distributionManagement>
+	      <repository>
+	              <id>repo</id>
+		              <url>https://github.com/UrbanCode/mvn-repo/releases</url>
+			          </repository>
+				      <snapshotRepository>
+				              <id>snapshot-repo</id>
+					              <url>https://github.com/UrbanCode/mvn-repo/snapshots</url>
+						          </snapshotRepository>
+							  </distributionManagement>
+	</project>
